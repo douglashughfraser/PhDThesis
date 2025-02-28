@@ -1,0 +1,4 @@
+Results: 1190/1768 transitions tested were valid.
+Test finished at 2025-02-05 11:07:28.917568
+Test finished at 2025-02-05 12:14:52.361268
+Test took 1:07:23.443700

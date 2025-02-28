@@ -1,0 +1,4 @@
+Results: 31/98672 states tested were reachable.
+Test finished at 2024-12-23 10:43:14.479700
+Test finished at 2025-01-01 12:44:39.867156
+Test took 9 days, 2:01:25.387456
